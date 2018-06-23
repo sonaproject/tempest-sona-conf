@@ -6,9 +6,6 @@ tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_subnet_details[
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_update_instance_port_admin_state[compute,id-f5dfcc22-45fd-409f-954c-5bd500d7890b,network,slow]: "not support"
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_update_router_admin_state[compute,id-04b9fe4e-85e8-4aea-b937-ea93885ac59f,network,slow]: "not support"
 
-tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_port_update_new_security_group[compute,id-f4d556d7-1526-42ad-bafb-6bebf48568f6,network,slow]: "skip temporarily"
-tempest.scenario.test_network_advanced_server_ops.TestNetworkAdvancedServerOps.test_server_connectivity_resize[compute,id-719eb59d-2f42-4b66-b8b1-bb1254473967,network,slow]: "skip temporarily"
-tempest.scenario.test_snapshot_pattern.TestSnapshotPattern.test_snapshot_pattern[compute,id-608e604b-1d63-4a82-8e3e-91bc665c90b4,image,network,slow]: "skip temporarily"
-tempest.scenario.test_server_basic_ops.TestServerBasicOps.test_server_basic_ops[compute,id-7fff3fb3-91d8-4fd0-bd7d-0204f1f180ba,network,smoke]: "skip temporarily"
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_connectivity_between_vms_on_different_networks[compute,id-1546850e-fbaa-42f5-8b5f-03d8a6a95f15,network,slow]: "skip temporarily"
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_mtu_sized_frames[compute,id-b158ea55-472e-4086-8fa9-c64ac0c6c1d0,network,slow]: "skip temporarily"
+tempest.scenario.test_server_basic_ops.TestServerBasicOps.test_server_basic_ops[compute,id-7fff3fb3-91d8-4fd0-bd7d-0204f1f180ba,network,smoke]: "skip temporarily"
