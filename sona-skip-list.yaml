@@ -7,3 +7,4 @@ tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_multiple_security_groups[compute,id-d2f77418-fcc4-439d-b935-72eca704e293,network,slow]: "bug"
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_port_security_macspoofing_port[compute,id-7c0bb1a2-d053-49a4-98f9-ca1a1d849f63,network,slow]: "not support"
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_subnet_details[compute,id-d8bb918e-e2df-48b2-97cd-b73c95450980,network,slow]: "not support"
+tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_port_update_new_security_group[compute,id-f4d556d7-1526-42ad-bafb-6bebf48568f6,network,slow]: "not support"
