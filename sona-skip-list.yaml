@@ -1,5 +1,4 @@
 tempest.scenario.test_snapshot_pattern.TestSnapshotPattern.test_snapshot_pattern[compute,id-608e604b-1d63-4a82-8e3e-91bc665c90b4,image,network,slow]: "skip temporarily"
-tempest.scenario.test_server_basic_ops.TestServerBasicOps.test_server_basic_ops[compute,id-7fff3fb3-91d8-4fd0-bd7d-0204f1f180ba,network,smoke]: "skip temporarily"
 
 tempest.api.network.admin.test_external_network_extension.ExternalNetworksTestJSON.test_delete_external_networks_with_floating_ip[id-82068503-2cf2-4ed4-b3be-ecb89432e4bb]: "bug"
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_cross_tenant_traffic[compute,id-e79f879e-debb-440c-a7e4-efeda05b6848,network]: "bug"
