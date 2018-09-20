@@ -1,7 +1,4 @@
 tempest.scenario.test_snapshot_pattern.TestSnapshotPattern.test_snapshot_pattern[compute,id-608e604b-1d63-4a82-8e3e-91bc665c90b4,image,network,slow]: "not support"
 
-neutron_tempest_plugin.api.test_extensions.ExtensionsTest.test_list_extensions_sorting[id-262420b7-a4bb-4a3e-b4b5-e73bad18df8c]: "not support"
-neutron_tempest_plugin.api.test_extensions.ExtensionsTest.test_list_extensions_pagination[id-19db409e-a23f-445d-8bc8-ca3d64c84706]: "not support"
-neutron_tempest_plugin.api.test_extensions.ExtensionsTest.test_list_extensions_project_id[id-155b7bc2-e358-4dd8-bf3e-1774c084567f]: "not support"
 neutron_tempest_plugin.api.test_routers.RoutersTest.test_router_interface_status[id-db3093b1-93b6-4893-be83-c4716c251b3e]: "not support"
 neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_two_sec_groups[id-3d73ec1a-2ec6-45a9-b0f8-04a283d9d964]: "skip temporarily"
