@@ -2,3 +2,4 @@ tempest.scenario.test_snapshot_pattern.TestSnapshotPattern.test_snapshot_pattern
 
 neutron_tempest_plugin.api.test_routers.RoutersTest.test_router_interface_status[id-db3093b1-93b6-4893-be83-c4716c251b3e]: "not support"
 neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_two_sec_groups[id-3d73ec1a-2ec6-45a9-b0f8-04a283d9d964]: "skip temporarily"
+neutron_tempest_plugin.scenario.test_floatingip.DefaultSnatToExternal.test_snat_external_ip[id-3d73ea1a-27c6-45a9-b0f8-04a283d9d764]: "skip temporarily"
