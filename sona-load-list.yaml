@@ -20,6 +20,8 @@ tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_in_tenant_traffic[compute,id-63163892-bbf6-4249-aa12-d5ea1f8f421b,network]
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_multiple_security_groups[compute,id-d2f77418-fcc4-439d-b935-72eca704e293,network,slow]
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_port_update_new_security_group[compute,id-f4d556d7-1526-42ad-bafb-6bebf48568f6,network,slow]
+tempest.scenario.test_aggregates_basic_ops.TestAggregatesBasicOps.test_aggregate_basic_ops[compute,id-cb2b4c4f-0c7c-4164-bdde-6285b302a081,slow]
+tempest.scenario.test_server_multinode.TestServerMultinode.test_schedule_to_all_nodes[compute,id-9cecbe35-b9d4-48da-a37e-7ce70aa43d30,network,smoke]
 neutron_tempest_plugin.scenario.test_floatingip.DefaultSnatToExternal.test_snat_external_ip[id-3d73ea1a-27c6-45a9-b0f8-04a283d9d764]
 neutron_tempest_plugin.scenario.test_basic.NetworkBasicTest.test_basic_instance[id-de07fe0a-e955-449e-b48b-8641c14cd52e]
 neutron_tempest_plugin.scenario.admin.test_floatingip.FloatingIpTestCasesAdmin.test_two_vms_fips[id-6bba729b-3fb6-494b-9e1e-82bbd89a1045]
