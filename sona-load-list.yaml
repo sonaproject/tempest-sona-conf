@@ -32,3 +32,4 @@ neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_ip
 neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_multiple_ports_secgroup_inheritance[id-f07d0159-8f9e-4faa-87f5-a869ab0ad488]
 neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_protocol_number_rule[id-3d73ec1a-2ec6-45a9-b0f8-04a283d9d864]
 neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_remote_group[id-7ed39b86-006d-40fb-887a-ae46693dabc9]
+neutron_tempest_plugin.scenario.test_security_groups.NetworkSecGroupTest.test_two_sec_groups[id-3d73ec1a-2ec6-45a9-b0f8-04a283d9d964]
