@@ -16,7 +16,6 @@ tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_preserve_preexi
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_subnet_details[compute,id-d8bb918e-e2df-48b2-97cd-b73c95450980,network,slow]
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_update_instance_port_admin_state[compute,id-f5dfcc22-45fd-409f-954c-5bd500d7890b,network,slow]
 tempest.scenario.test_network_basic_ops.TestNetworkBasicOps.test_update_router_admin_state[compute,id-04b9fe4e-85e8-4aea-b937-ea93885ac59f,network,slow]
-tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_cross_tenant_traffic[compute,id-e79f879e-debb-440c-a7e4-efeda05b6848,network]
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_in_tenant_traffic[compute,id-63163892-bbf6-4249-aa12-d5ea1f8f421b,network]
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_multiple_security_groups[compute,id-d2f77418-fcc4-439d-b935-72eca704e293,network,slow]
 tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_port_update_new_security_group[compute,id-f4d556d7-1526-42ad-bafb-6bebf48568f6,network,slow]
